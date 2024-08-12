@@ -1,0 +1,15 @@
+p {
+    background-color: #e60e76;
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+}
+.sizing {
+    font-size: 24px;
+}
+#second {
+    color: #0e60e6;
+    font-size: 36px;
+}
+#fourth {
+    background-color: #0ee659;
+    font-weight: bold;
+}
